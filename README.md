@@ -21,7 +21,6 @@
 # ~/player_config.yaml
 name:        "Guru Prasaath"
 class:       "AI/ML Engineer + iOS Dev (hybrid build)"
-level:       "Final-year B.Tech — CGPA 8.87"
 guild:       "President @ Data Science Club & DSBS Association, SRM"
 main_quest:  "Building agentic AI systems that actually ship"
 side_quests: ["Full-stack Java backends", "SwiftUI apps", "Computer Vision"]
