@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 158 54" width="158" height="54" role="img" aria-label="Portfolio">
+  <title>Portfolio</title>
+  <defs>
+    <linearGradient id="fill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3A3A3C" stop-opacity=".78"/>
+      <stop offset="1" stop-color="#1C1C1E" stop-opacity=".88"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".55"/>
+      <stop offset=".5" stop-color="#FFFFFF" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity=".25"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="34" cy="27" r="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#64D2FF" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#64D2FF" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="pill"><rect x="1" y="1" width="156" height="52" rx="26"/></clipPath>
+  </defs>
+  <g clip-path="url(#pill)">
+    <rect width="158" height="54" fill="url(#fill)"/>
+    <rect width="158" height="54" fill="url(#glow)"/>
+    <rect x="1" y="1" width="156" height="26" fill="url(#sheen)"/>
+  </g>
+  <rect x="1" y="1" width="156" height="52" rx="26" fill="none" stroke="url(#edge)" stroke-width="1.2"/>
+  <circle cx="34" cy="27" r="12" fill="none" stroke="#64D2FF" stroke-width="2.2"/><path d="M39.5 21.5 L36 29 L28.5 32.5 L32 25 Z" fill="#FFFFFF"/><path d="M39.5 21.5 L32 25 L36 29 Z" fill="#FF453A"/>
+  <text x="56" y="32.5" font-family="-apple-system, BlinkMacSystemFont, &quot;SF Pro Text&quot;, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif" font-size="16" font-weight="600" fill="#FFFFFF">Portfolio</text>
+</svg>

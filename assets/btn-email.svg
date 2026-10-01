@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124 54" width="124" height="54" role="img" aria-label="Email">
+  <title>Email</title>
+  <defs>
+    <linearGradient id="fill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3A3A3C" stop-opacity=".78"/>
+      <stop offset="1" stop-color="#1C1C1E" stop-opacity=".88"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".55"/>
+      <stop offset=".5" stop-color="#FFFFFF" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity=".25"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="34" cy="27" r="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FF453A" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#FF453A" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="pill"><rect x="1" y="1" width="122" height="52" rx="26"/></clipPath>
+  </defs>
+  <g clip-path="url(#pill)">
+    <rect width="124" height="54" fill="url(#fill)"/>
+    <rect width="124" height="54" fill="url(#glow)"/>
+    <rect x="1" y="1" width="122" height="26" fill="url(#sheen)"/>
+  </g>
+  <rect x="1" y="1" width="122" height="52" rx="26" fill="none" stroke="url(#edge)" stroke-width="1.2"/>
+  <rect x="22" y="18" width="24" height="18" rx="4" fill="none" stroke="#FF6961" stroke-width="2.2"/><path d="M23.5 20.5 L34 28.5 L44.5 20.5" fill="none" stroke="#FF6961" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="56" y="32.5" font-family="-apple-system, BlinkMacSystemFont, &quot;SF Pro Text&quot;, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif" font-size="16" font-weight="600" fill="#FFFFFF">Email</text>
+</svg>

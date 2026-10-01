@@ -4,10 +4,11 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/guru-prasaath-d-3b16722b6"><img src="https://img.shields.io/badge/LinkedIn-1C1C1E?style=for-the-badge&logo=linkedin&logoColor=0A84FF" alt="LinkedIn"/></a>
-<a href="https://guruprasaathd.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1C1C1E?style=for-the-badge&logo=safari&logoColor=0A84FF" alt="Portfolio"/></a>
-<a href="mailto:guruprasaath.dilli@gmail.com"><img src="https://img.shields.io/badge/Email-1C1C1E?style=for-the-badge&logo=gmail&logoColor=FF453A" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=Guru-Prasaath&color=0A84FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://linkedin.com/in/guru-prasaath-d-3b16722b6"><img src="./assets/btn-linkedin.svg" height="54" alt="LinkedIn"/></a>&nbsp;
+<a href="https://guruprasaathd.netlify.app/"><img src="./assets/btn-portfolio.svg" height="54" alt="Portfolio"/></a>&nbsp;
+<a href="mailto:guruprasaath.dilli@gmail.com"><img src="./assets/btn-email.svg" height="54" alt="Email"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=Guru-Prasaath&color=0A84FF&label=profile+views&style=flat-square&abbreviated=true" alt="Profile views"/>
 
 </div>
 
