@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170" role="img" aria-labelledby="title">
-  <title id="title">Slide to say hello: email D Guru Prasaath</title>
+  <title id="title">Tap to say hello: email D Guru Prasaath</title>
   <defs>
     <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0B1030"/>
@@ -27,8 +27,8 @@
   </defs>
   <style>
     text { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
-    .knob { animation: nudge 3s cubic-bezier(.4,0,.2,1) infinite; }
-    @keyframes nudge { 0%, 60%, 100% { transform: translateX(0); } 75% { transform: translateX(22px); } }
+    .knob { animation: nudge 3.5s cubic-bezier(.4,0,.2,1) infinite; }
+    @keyframes nudge { 0%, 15% { transform: translateX(0); opacity: 1; } 55% { transform: translateX(512px); opacity: 1; } 70% { transform: translateX(512px); opacity: 0; } 71% { transform: translateX(0); opacity: 0; } 85%, 100% { transform: translateX(0); opacity: 1; } }
     @media (prefers-reduced-motion: reduce) { .knob { animation: none; } }
   </style>
   <g clip-path="url(#screen)">
@@ -38,7 +38,7 @@
       <circle cx="1000" cy="40" r="140" fill="#FF9F0A" opacity=".3"/>
     </g>
     <rect x="300" y="47" width="600" height="76" rx="38" fill="#FFFFFF" fill-opacity=".11" stroke="url(#glassEdge)" stroke-width="1.2"/>
-    <text x="640" y="94" text-anchor="middle" font-size="26" font-weight="500" fill="url(#shimmer)">slide to say hello</text>
+    <text x="640" y="94" text-anchor="middle" font-size="26" font-weight="500" fill="url(#shimmer)">tap to say hello</text>
     <g class="knob">
       <circle cx="344" cy="85" r="31" fill="#FFFFFF"/>
       <path d="M337 72 L351 85 L337 98" fill="none" stroke="#0A84FF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>

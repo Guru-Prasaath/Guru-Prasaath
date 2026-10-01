@@ -65,33 +65,6 @@ struct GuruPrasaath: Engineer {
 
 <br/>
 
-## Featured work
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>App Store app</h3>
-      <sub>SwiftUI &nbsp;·&nbsp; iOS</sub>
-      <p>Replace this with one sentence on what your app does and who it's for.</p>
-      <a href="https://apps.apple.com/">View on the App Store</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Agro AI</h3>
-      <sub>In progress</sub>
-      <p>An AI app for agriculture. Replace this with what it does and the stack it runs on.</p>
-      <a href="https://github.com/Guru-Prasaath">View repository</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>BB84 vs E91</h3>
-      <sub>Quantum key distribution</sub>
-      <p>A comparative analysis of the BB84 and E91 protocols under channel noise and eavesdropping. Team project.</p>
-      <a href="https://github.com/Guru-Prasaath">View repository</a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 ## GitHub activity
 
 <div align="center">
@@ -117,7 +90,7 @@ struct GuruPrasaath: Engineer {
 
 <div align="center">
 
-<a href="mailto:guruprasaath.dilli@gmail.com"><img src="./assets/slide-to-connect.svg" width="100%" alt="Slide to say hello: email guruprasaath.dilli@gmail.com"/></a>
+<a href="mailto:guruprasaath.dilli@gmail.com"><img src="./assets/slide-to-connect.svg" width="100%" alt="Tap to say hello: email guruprasaath.dilli@gmail.com"/></a>
 
 <sub>Open to fresher roles in backend and applied AI engineering from 2027. Fastest reply: guruprasaath.dilli@gmail.com</sub>
 
