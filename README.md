@@ -74,8 +74,6 @@ struct GuruPrasaath: Engineer {
 
 <img src="https://streak-stats.demolab.com/?user=Guru-Prasaath&hide_border=true&border_radius=20&background=1C1C1E&ring=0A84FF&fire=FF9F0A&currStreakLabel=0A84FF&sideLabels=EBEBF5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8E8E93&stroke=3A3A3C" alt="Contribution streak"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Guru-Prasaath&bg_color=1C1C1E&color=EBEBF5&title_color=0A84FF&line=0A84FF&point=FF9F0A&area=true&area_color=0A84FF&hide_border=true&radius=20" alt="Contribution graph"/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru-Prasaath/Guru-Prasaath/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru-Prasaath/Guru-Prasaath/output/github-snake.svg"/>
