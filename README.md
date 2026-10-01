@@ -1,134 +1,124 @@
 <div align="center">
 
-<!-- Glitchy gamer-style typing banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=60&lines=%3E+PLAYER+1%3A+GURU+PRASAATH;%3E+CLASS%3A+AI+%2F+ML+ENGINEER;%3E+SPECIAL+ABILITY%3A+AGENTIC+AI;%3E+PRESS+START+TO+CONTINUE..." alt="Typing SVG" />
+<img src="./assets/hero.svg" width="100%" alt="D Guru Prasaath: AI/ML and backend engineer, iOS developer, Chennai" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=3&section=header" width="100%"/>
+<br/><br/>
 
-**`B.Tech CSE (Data Science) @ SRM University`** ⚔️ **`Chennai, India`**
-
-<a href="https://linkedin.com/in/guru-prasaath-d"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:guruprasaath.dilli@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Guru-Prasaath&color=00FF41&style=for-the-badge&label=VISITORS" />
+<a href="https://linkedin.com/in/guru-prasaath-d-3b16722b6"><img src="https://img.shields.io/badge/LinkedIn-1C1C1E?style=for-the-badge&logo=linkedin&logoColor=0A84FF" alt="LinkedIn"/></a>
+<a href="https://guruprasaathd.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1C1C1E?style=for-the-badge&logo=safari&logoColor=0A84FF" alt="Portfolio"/></a>
+<a href="mailto:guruprasaath.dilli@gmail.com"><img src="https://img.shields.io/badge/Email-1C1C1E?style=for-the-badge&logo=gmail&logoColor=FF453A" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=Guru-Prasaath&color=0A84FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 <br/>
 
-## 🎮 Player Profile
+## About
 
-```yaml
-# ~/player_config.yaml
-name:        "Guru Prasaath"
-class:       "AI/ML Engineer + iOS Dev (hybrid build)"
-guild:       "President @ Data Science Club & DSBS Association, SRM"
-main_quest:  "Building agentic AI systems that actually ship"
-side_quests: ["Full-stack Java backends", "SwiftUI apps", "Computer Vision"]
-achievement: "🏆 App live on the App Store"
-xp_gained:   "Software Engineering Internship @ Infosys"
-idle_mode:   ["cricket 🏏", "movies 🎬", "music 🎧"]
-status:      "ONLINE — grinding XP daily"
+<img src="./assets/widgets.svg" width="100%" alt="Widgets: B.Tech CSE (Data Science) at SRM IST Chennai, class of 2027; currently building agentic AI, Java backends and SwiftUI apps; practicing DSA in Java; off-screen, cricket, movies and music" />
+
+```swift
+struct GuruPrasaath: Engineer {
+    let base       = "Chennai, India"
+    let education  = Degree(.btech, major: "CSE (Data Science)", at: "SRM IST", graduating: 2027)
+    let experience = [Role("Software Engineering Intern", at: "Infosys, Mysore", period: "Jan–Feb 2026")]
+    let leadership = ["President, Data Science Club", "President, DSBS Association"]
+
+    var building: [Skill] { [.agenticAI, .rag, .java, .springBoot, .swiftUI] }
+    var shipped:  [App]   { [.liveOnTheAppStore] }
+    var offline:  [Hobby] { [.cricket, .movies, .music] }
+}
 ```
 
 <br/>
 
-## ⚔️ Skill Tree
+## On my home screen
 
 <div align="center">
 
-### 🗡️ Primary Weapons — Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<sub>Languages</sub><br/>
+<img src="https://skillicons.dev/icons?i=python,java,swift,mysql&theme=dark" alt="Python, Java, Swift, SQL"/>
 
-### 🔮 Magic Spells — AI / ML / GenAI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_+_Agentic_AI-00FF41?style=for-the-badge&logo=probot&logoColor=black)
+<sub>AI and ML</sub><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="TensorFlow, PyTorch, OpenCV"/>
 
-### 🛡️ Armor Set — Backend & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<sub>Backend and web</sub><br/>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,react&theme=dark" alt="Spring, FastAPI, Node.js, React"/>
 
-### 📱 Mobility Buff — iOS Dev
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)
+<sub>Data and tools</sub><br/>
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github&theme=dark" alt="PostgreSQL, Docker, Git, GitHub"/>
 
-### 🧰 Inventory — Data, DevOps & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<br/><br/>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C1C1E?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-1C1C1E?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![RAG](https://img.shields.io/badge/RAG_+_Agents-1C1C1E?style=flat-square&logo=probot&logoColor=BF5AF2)
+![Spring Security](https://img.shields.io/badge/Spring_Security-1C1C1E?style=flat-square&logo=springsecurity&logoColor=6DB33F)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-1C1C1E?style=flat-square&logo=swift&logoColor=0A84FF)
+![Xcode](https://img.shields.io/badge/Xcode-1C1C1E?style=flat-square&logo=xcode&logoColor=0A84FF)
+![Pandas](https://img.shields.io/badge/Pandas-1C1C1E?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1C1C1E?style=flat-square&logo=numpy&logoColor=4DABCF)
+![Power BI](https://img.shields.io/badge/Power_BI-1C1C1E?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Selenium](https://img.shields.io/badge/Selenium-1C1C1E?style=flat-square&logo=selenium&logoColor=43B02A)
 
 </div>
 
 <br/>
 
-## 📟 Terminal Log
+## Featured work
 
-```bash
-guru@dev:~$ whoami
-> Agentic AI builder | Backend engineer | iOS shipper
-
-guru@dev:~$ cat current_grind.txt
-> LLM orchestration • RAG pipelines • Scalable system design • Secure APIs
-
-guru@dev:~$ sudo apt install new-skills
-> Installing... networking, security, cloud deployment [██████████░░] 84%
-
-guru@dev:~$ uptime
-> Coding streak: ACTIVE — powered by coffee ☕ and cricket highlights 🏏
-```
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>App Store app</h3>
+      <sub>SwiftUI &nbsp;·&nbsp; iOS</sub>
+      <p>Replace this with one sentence on what your app does and who it's for.</p>
+      <a href="https://apps.apple.com/">View on the App Store</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Agro AI</h3>
+      <sub>In progress</sub>
+      <p>An AI app for agriculture. Replace this with what it does and the stack it runs on.</p>
+      <a href="https://github.com/Guru-Prasaath">View repository</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>BB84 vs E91</h3>
+      <sub>Quantum key distribution</sub>
+      <p>A comparative analysis of the BB84 and E91 protocols under channel noise and eavesdropping. Team project.</p>
+      <a href="https://github.com/Guru-Prasaath">View repository</a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-## 📊 Battle Stats
+## GitHub activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Guru-Prasaath&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guru-Prasaath&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Guru-Prasaath&show_icons=true&count_private=true&hide_border=true&border_radius=20&bg_color=1C1C1E&title_color=0A84FF&icon_color=FF9F0A&text_color=EBEBF5" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guru-Prasaath&layout=compact&hide_border=true&border_radius=20&bg_color=1C1C1E&title_color=0A84FF&text_color=EBEBF5" alt="Top languages"/>
 
-<br/><br/>
+<img src="https://streak-stats.demolab.com/?user=Guru-Prasaath&hide_border=true&border_radius=20&background=1C1C1E&ring=0A84FF&fire=FF9F0A&currStreakLabel=0A84FF&sideLabels=EBEBF5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8E8E93&stroke=3A3A3C" alt="Contribution streak"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Guru-Prasaath&theme=radical&hide_border=true&background=0d1117" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Guru-Prasaath&bg_color=1C1C1E&color=EBEBF5&title_color=0A84FF&line=0A84FF&point=FF9F0A&area=true&area_color=0A84FF&hide_border=true&radius=20" alt="Contribution graph"/>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Guru-Prasaath&theme=radical&no-frame=true&column=7&margin-w=10" />
-
-<br/><br/>
-
-<!-- Contribution snake animation -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru-Prasaath/Guru-Prasaath/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru-Prasaath/Guru-Prasaath/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Guru-Prasaath/Guru-Prasaath/output/github-snake.svg" alt="Contribution snake"/>
+</picture>
 
 </div>
 
 <br/>
 
+## Say hello
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=3" width="100%"/>
+<a href="mailto:guruprasaath.dilli@gmail.com"><img src="./assets/slide-to-connect.svg" width="100%" alt="Slide to say hello: email guruprasaath.dilli@gmail.com"/></a>
 
-### 🕹️ `GAME OVER? NAH — INSERT COFFEE TO CONTINUE` ☕
-
-**📡 Ping me:** guruprasaath.dilli@gmail.com
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D96F6&height=120&section=footer" width="100%"/>
+<sub>Open to fresher roles in backend and applied AI engineering from 2027. Fastest reply: guruprasaath.dilli@gmail.com</sub>
 
 </div>
-
-<!---
-Guru-Prasaath/Guru-Prasaath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
