@@ -35,34 +35,7 @@ struct GuruPrasaath: Engineer {
 
 ## On my home screen
 
-<div align="center">
-
-<sub>Languages</sub><br/>
-<img src="https://skillicons.dev/icons?i=python,java,swift,mysql&theme=dark" alt="Python, Java, Swift, SQL"/>
-
-<sub>AI and ML</sub><br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="TensorFlow, PyTorch, OpenCV"/>
-
-<sub>Backend and web</sub><br/>
-<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,react&theme=dark" alt="Spring, FastAPI, Node.js, React"/>
-
-<sub>Data and tools</sub><br/>
-<img src="https://skillicons.dev/icons?i=postgres,docker,git,github&theme=dark" alt="PostgreSQL, Docker, Git, GitHub"/>
-
-<br/><br/>
-
-![LangChain](https://img.shields.io/badge/LangChain-1C1C1E?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-1C1C1E?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![RAG](https://img.shields.io/badge/RAG_+_Agents-1C1C1E?style=flat-square&logo=probot&logoColor=BF5AF2)
-![Spring Security](https://img.shields.io/badge/Spring_Security-1C1C1E?style=flat-square&logo=springsecurity&logoColor=6DB33F)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-1C1C1E?style=flat-square&logo=swift&logoColor=0A84FF)
-![Xcode](https://img.shields.io/badge/Xcode-1C1C1E?style=flat-square&logo=xcode&logoColor=0A84FF)
-![Pandas](https://img.shields.io/badge/Pandas-1C1C1E?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-1C1C1E?style=flat-square&logo=numpy&logoColor=4DABCF)
-![Power BI](https://img.shields.io/badge/Power_BI-1C1C1E?style=flat-square&logo=powerbi&logoColor=F2C811)
-![Selenium](https://img.shields.io/badge/Selenium-1C1C1E?style=flat-square&logo=selenium&logoColor=43B02A)
-
-</div>
+<img src="./assets/home-screen.svg" width="100%" alt="Tech stack: Python, Java, Swift, SQL, TensorFlow, PyTorch, OpenCV, VS Code, Spring, FastAPI, Node.js, React, PostgreSQL, Docker, Git, GitHub, plus LangChain, Hugging Face, RAG and agents, Spring Security, SwiftUI, Xcode, Pandas, NumPy, Power BI and Selenium"/>
 
 <br/>
 
